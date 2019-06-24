@@ -1,0 +1,23 @@
+﻿
+@model List<Souq.Models.MyClasses.Product>
+
+
+<div class="container-fluid">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-3">
+                <div class="card">
+                    <img src="~/Images/@item.ProductImage" width="200" height="150" class="card-img-top">
+                    <h4>
+                        @Html.ActionLink(item.ProductName, "Details", new { @ID = item.ID })
+                    </h4>
+                    <p class="price"><del>@item.ProductPrice EGP</del></p>
+                    <p>Discount:<mark style="background-color: yellow;"> @item.ProductDiscount EGP</mark> </p>
+                    @*<a href="/Product/Details/@item.ID" class="btn btn-info ">Details</a>*@
+                    <p><button>Add to Cart</button></p>
+                </div>
+            </div>
+        }
+    </div>
+</div>

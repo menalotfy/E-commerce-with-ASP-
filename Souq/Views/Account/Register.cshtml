@@ -1,0 +1,120 @@
+﻿@model Souq.Models.RegisterViewModel
+@{
+    /**/
+
+    /**/
+
+    ViewBag.Title = "Register";
+}
+
+<h1 style="margin-top:50px; color:blue; text-align:center">Registeration Form</h1>
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+
+    <div class="container" style="margin-top:100px">
+        <div class="row">
+
+            <div class="col-md-3 col-sm-1"></div>
+            <div class="col-md-1 col-sm-2 p-1">
+                Email
+            </div>
+            <div class="col-md-5 col-sm-4 p-1">
+                <div>
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-1"></div>
+
+            <div class="col-md-3 col-sm-1"></div>
+            <div class="col-md-1 col-sm-2 p-1">
+                Password
+            </div>
+            <div class="col-md-5 col-sm-4 p-1">
+                <div>
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-1"></div>
+
+
+
+            <div class="col-md-3 col-sm-1"></div>
+            <div class="col-md-1 col-sm-2 p-1">
+                Confirm Password
+            </div>
+            <div class="col-md-5 col-sm-4 p-1">
+                <div>
+                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-1"></div>
+
+
+
+            <div class="col-md-3 col-sm-1"></div>
+            <div class="col-md-1 col-sm-2 p-1">
+                Role
+            </div>
+            <div class="col-md-5 col-sm-4 p-1">
+                <div>
+                    @Html.DropDownListFor(r=> r.Role, new List<SelectListItem> {
+                 new SelectListItem{ Text = "Customer", Value = "Customer" },
+                  new SelectListItem { Text = "Supplier", Value = "Supplier" }},
+                 new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-1"></div>
+
+
+
+            <div class="col-md-3 col-sm-1"></div>
+            <div class="col-md-6 col-sm-4 p-1">
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Register" />
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+            @*<div class="form-group">
+                @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-4 p-1">
+                <div>
+                    @Html.DropDownListFor(r=> r.Role, new List<SelectListItem> {
+                   new SelectListItem{ Text = "Customer", Value = "Customer" },
+                    new SelectListItem { Text = "Supplier", Value = "Supplier" }},
+                   new { @class = "form-control" })
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" class="btn btn-default" value="Register" />
+                </div>
+            </div>*@
+            }
+
+            @section Scripts {
+                @Scripts.Render("~/bundles/jqueryval")
+            }

@@ -1,0 +1,106 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<Souq.Models.MyClasses.Category>
+@{
+    ViewBag.Title = "Index";
+}
+
+<form class="example" action="/Categories/Search" style="margin:auto;max-width:300px; padding:20px; margin-top:100px">
+    <input type="text" placeholder="Search.." name="CategoryName" autocomplete="off">
+    <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+
+
+
+
+@Html.ActionLink("Add New Category", "Create", "Categories", null, new { @class = "btn btn-success", style = "margin:2px" })
+
+<table class="table table-bordered" style="text-align:center">
+    <tr style="background-color:grey">
+        <td>Category Name</td>
+        <td>Description</td>
+        <td>Options</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>@item.CategoryName</td>
+            <td>@item.CategoryDescription</td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })*@
+                <a href="/Categories/Edit/@item.ID" class="btn btn-primary" style="margin:2px">Edit</a>
+                <a href="/Categories/Delete/@item.ID" class="btn btn-danger" style="margin:2px">Delete</a>
+            </td>
+        </tr>
+
+    }
+
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<p>*@
+@*@Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryStatus)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryStatus)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+
+    </table>*@

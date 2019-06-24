@@ -1,0 +1,54 @@
+﻿@model Souq.Models.MyClasses.Product
+
+<div class="container-fluid" style="margin-top:100px">
+
+
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" style="margin-top:-180px ;margin-bottom:-40px">
+        show  Details
+
+    </button>
+    <br />
+    <img src="~/Images/@Model.ProductImage" width="150" height="150" style="margin-top:-50px">
+
+
+    <!-- The Modal -->
+    <div class="modal" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <div class="row">
+                        <div class="col-3">
+                            <img src="~/Images/@Model.ProductImage" width="150" height="200">
+                        </div>
+
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <div class="col-5">
+                            <span style="color:blue; font-size:16px; font-family:'Abdo Logo'">Product Name:</span>
+                            <h6 style="display:inline">@Model.ProductName</h6>
+                            <hr />
+                            <span style="color:blue; font-size:16px; font-family:'Abdo Logo'">Price:</span>
+                            <h6 style="display:inline">@Model.ProductPrice</h6>
+                            <hr />
+                            <span style="color:blue; font-size:16px; font-family:'Abdo Logo'">Discount:</span>
+                            <h6 style="display:inline">@Model.ProductDiscount EGP</h6>
+                            <hr />
+                            <span style="color:blue; font-size:16px; font-family:'Abdo Logo'">Description:</span>
+                            @*<h6 style="display:inline">@Model.Category.CategoryDescription</h6>*@
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,131 @@
+﻿@model Souq.Models.MyClasses.Product
+
+@{
+    SelectList CatgList = new SelectList(ViewBag.CategoryList, "ID", "CategoryName", Model.Category_Id);
+    ViewBag.Title = "Edit";
+}
+
+
+
+@using (Html.BeginForm())
+{
+
+    @*@Html.ValidationSummary(true, null)*@
+
+
+    <div class="container" style="margin-top:100px">
+        <div class="row">
+
+
+            <div class="col-md-1 col-sm-2 p-1">
+                Categrory
+            </div>
+            <div class="col-md-3 col-sm-4 p-1">
+                <div>
+                    @Html.DropDownListFor(c => c.Category_Id, CatgList, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="col-md-8 col-sm-1"></div>
+
+
+
+            <div class="col-md-1 col-sm-2 p-1">
+                Name
+            </div>
+            <div class="col-md-3 col-sm-4 p-1">
+                <div>
+                    @Html.EditorFor(a => a.ProductName,
+               new { htmlAttributes = new { @class = "form-control", autocomplete="off" } })
+            </div>
+        </div>
+        <div class="col-md-8 col-sm-1">
+            @Html.ValidationMessageFor(s => s.ProductName, null,
+           new { style = "dispaly:block;font-size:20px;position: absolute;top: 10px ",
+               @class = "text-danger"
+           })
+
+        </div>
+
+        <div class="col-md-1 col-sm-2 p-1">
+            Price
+        </div>
+        <div class="col-md-3 col-sm-4 p-1">
+            <div>
+                @Html.EditorFor(a => a.ProductPrice,
+           new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
+        </div>
+    </div>
+    <div class="col-md-8 col-sm-1">
+        @Html.ValidationMessageFor(s => s.ProductPrice, null,
+       new { style = "dispaly:block;font-size:20px;position: absolute;top: 14px ",
+           @class = "text-danger" })
+    </div>
+
+
+    <div class="col-md-1 col-sm-2 p-1">
+        Quantity
+    </div>
+    <div class="col-md-3 col-sm-4 p-1">
+        <div>@Html.EditorFor(a => a.ProductQuantity, new { htmlAttributes = new { @class = "form-control" } })</div>
+    </div>
+    <div class="col-md-8 col-sm-1">
+        @Html.ValidationMessageFor(a => a.ProductQuantity, null,
+       new { style = "dispaly:block;font-size:20px;position: absolute;top: 14px ",
+           @class = "text-danger" })
+
+    </div>
+
+
+    <div class="col-md-1 col-sm-2 p-1">
+        Discount
+    </div>
+    <div class="col-md-3 col-sm-4 p-1">
+        <div>
+            @Html.EditorFor(a => a.ProductDiscount,
+       new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
+    </div>
+</div>
+<div class="col-md-8 col-sm-1">
+    @Html.ValidationMessageFor(s => s.ProductDiscount, null,
+   new { style = "dispaly:block;font-size:20px;position: absolute;top: 14px ",
+       @class = "text-danger" })
+
+</div>
+
+<div class="col-md-3 col-sm-4 p-1">
+    <input type="submit" value="Save" class="btn btn-success" />
+    @Html.ActionLink("Back", "Index", "Supplier", null, new { @class = "btn btn-primary", style = "margin:2px;" })
+
+</div>
+</div>
+</div>
+}
+<div style="margin-top:190px"></div>
+@*<table class="table table-bordered" style="text-align:center; margin-top:190px">
+            <tr style="background-color:grey">
+                <td>Category</td>
+                <td>Name</td>
+                <td>Price</td>
+                <td>Quantity</td>
+                <td>Discount</td>
+            </tr>
+            <tr>
+                <td>@Html.DropDownListFor(c => c.Category_ID, CatgList, new { @class = "form-control" })</td>
+                <td>@Html.EditorFor(a => a.ProductName)</td>
+                @Html.ValidationMessageFor(s => s.ProductName, null, new { style = "dispaly:block;font-size:20px;position: absolute;top: 65px ", @class = "text-danger" })
+                <td>@Html.EditorFor(a => a.ProductPrice)</td>
+                @Html.ValidationMessageFor(s => s.ProductPrice, null, new { style = "dispaly:block;font-size:20px;position: absolute;top: 90px ", @class = "text-danger" })
+                <td>@Html.EditorFor(a => a.ProductQuantity)</td>
+                @Html.ValidationMessageFor(a => a.ProductQuantity, null, new { style = "dispaly:block;font-size:20px;position: absolute;top: 115px ", @class = "text-danger" })
+                <td>@Html.EditorFor(a => a.ProductDiscount)</td>
+                @Html.ValidationMessageFor(s => s.ProductDiscount, null, new { style = "dispaly:block;font-size:20px;position: absolute;top: 140px ", @class = "text-danger" })
+            </tr>
+        </table>
+        <input type="submit" value="Save" class="btn btn-success" />
+        @Html.ActionLink("Back", "Index", "Supplier", null, new { @class = "btn btn-primary", style = "margin:2px;" })
+    }*@
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval");
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+}

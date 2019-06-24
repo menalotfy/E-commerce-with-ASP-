@@ -1,0 +1,86 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<Souq.Models.MyClasses.Product>
+
+@{
+
+    ViewBag.Title = "Index";
+    if (this.User.IsInRole("Supplier") || !this.User.Identity.IsAuthenticated)
+    {
+        <h1>wElcome</h1>
+    }
+    else
+    {
+
+        @*<h2>Not</h2>*@
+    }
+}
+
+
+<form class="example" action="/Product/Search" style="margin:auto;max-width:300px; padding:20px; margin-top:100px">
+    <input type="text" placeholder="Search.." name="ProductName" autocomplete="off">
+    <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+
+@*@using (Html.BeginForm("Search", "Product", FormMethod.Get))
+    {
+        @Html.TextBox("ProductName") <input type="submit" value="Search" />
+    }*@
+
+
+@*@using (Html.BeginForm("Search", "Product", new AjaxOptions
+    {
+        HttpMethod = "get",
+        UpdateTargetId = "divForShowingProductSearch",
+        InsertionMode = InsertionMode.Replace
+    }))
+    {
+        <input type="text" placeholder="Search.." name="ProductName" id="nameText">
+        <input type="submit"  name="ProductName" value="Search">
+    }*@
+
+
+<div class="container-fluid" id="divForShowingProductSearch">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <img src="~/Images/@item.ProductImage" width="200" height="150" class="card-img-top">
+                @*<h4>
+                        @Html.ActionLink(item.ProductName, "Details", new { @ID = item.ID })
+                    </h4>*@
+                <h4 id="show">
+                    @Ajax.ActionLink(item.ProductName, "ProductDetails",
+         new { id = item.ID },
+         new AjaxOptions
+         {
+             HttpMethod = "get",
+             UpdateTargetId = "ShowProductDetails",
+             InsertionMode = InsertionMode.Replace,
+
+         });
+                </h4>
+                <p class="price"><del>@item.ProductPrice EGP</del></p>
+                <p>Discount:<mark style="background-color: yellow;"> @item.ProductDiscount EGP</mark> </p>
+                @*<a href="/Product/Details/@item.ID" class="btn btn-info ">Details</a>*@
+                <p><a href="@Url.Action("Buy", "Cart", new { id = item.ID })" class="btn btn-primary">Add to Cart</a></p>
+
+            </div>
+        }
+    </div>
+</div>
+
+<div id="ShowProductDetails" class="col-12 card-body text-center " ></div>
+
+
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+@section scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+        
+
+    </script>
+}
+

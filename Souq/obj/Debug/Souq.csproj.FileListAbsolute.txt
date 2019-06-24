@@ -1,0 +1,333 @@
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Souq.dll.config
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Souq.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Souq.pdb
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\csc.exe
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\csc.exe.config
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\csc.rsp
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\csi.exe
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\csi.exe.config
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\csi.rsp
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.AppContext.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Console.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.IO.Compression.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.Claims.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.ValueTuple.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\vbc.exe
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\vbc.exe.config
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\vbc.rsp
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\VBCSCompiler.exe
+C:\Users\Waleed\source\repos\Souq\Souq\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Antlr3.Runtime.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\EntityFramework.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\EntityFramework.SqlServer.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Newtonsoft.Json.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Owin.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Helpers.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Mvc.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Optimization.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Razor.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.WebPages.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.WebPages.Razor.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\WebGrease.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Helpers.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Mvc.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Optimization.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.Razor.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.WebPages.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\System.Web.WebPages.Razor.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Newtonsoft.Json.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Antlr3.Runtime.pdb
+C:\Users\Waleed\source\repos\Souq\Souq\bin\EntityFramework.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\EntityFramework.SqlServer.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.csprojAssemblyReference.cache
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.csproj.CopyComplete
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.dll
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.pdb
+C:\Users\Waleed\source\repos\Souq\Souq\bin\PagedList.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\PagedList.Mvc.dll
+C:\Users\Waleed\source\repos\Souq\Souq\bin\PagedList.xml
+C:\Users\Waleed\source\repos\Souq\Souq\bin\PagedList.Mvc.xml
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.Migrations.ssd.resources
+C:\Users\Waleed\source\repos\Souq\Souq\obj\Debug\Souq.csproj.GenerateResource.cache
+D:\ITI Projects\Souq\Souq\bin\Souq.dll.config
+D:\ITI Projects\Souq\Souq\bin\Souq.dll
+D:\ITI Projects\Souq\Souq\bin\Souq.pdb
+D:\ITI Projects\Souq\Souq\bin\roslyn\csc.exe
+D:\ITI Projects\Souq\Souq\bin\roslyn\csc.exe.config
+D:\ITI Projects\Souq\Souq\bin\roslyn\csc.rsp
+D:\ITI Projects\Souq\Souq\bin\roslyn\csi.exe
+D:\ITI Projects\Souq\Souq\bin\roslyn\csi.exe.config
+D:\ITI Projects\Souq\Souq\bin\roslyn\csi.rsp
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITI Projects\Souq\Souq\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.AppContext.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Collections.Immutable.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Console.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.IO.Compression.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.IO.FileSystem.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.IO.Pipes.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.AccessControl.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.Claims.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.ValueTuple.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Xml.XPath.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITI Projects\Souq\Souq\bin\roslyn\vbc.exe
+D:\ITI Projects\Souq\Souq\bin\roslyn\vbc.exe.config
+D:\ITI Projects\Souq\Souq\bin\roslyn\vbc.rsp
+D:\ITI Projects\Souq\Souq\bin\roslyn\VBCSCompiler.exe
+D:\ITI Projects\Souq\Souq\bin\roslyn\VBCSCompiler.exe.config
+D:\ITI Projects\Souq\Souq\bin\Antlr3.Runtime.dll
+D:\ITI Projects\Souq\Souq\bin\EntityFramework.dll
+D:\ITI Projects\Souq\Souq\bin\EntityFramework.SqlServer.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Google.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI Projects\Souq\Souq\bin\Newtonsoft.Json.dll
+D:\ITI Projects\Souq\Souq\bin\Owin.dll
+D:\ITI Projects\Souq\Souq\bin\PagedList.dll
+D:\ITI Projects\Souq\Souq\bin\PagedList.Mvc.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.Helpers.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.Mvc.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.Optimization.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.Razor.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.WebPages.Deployment.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.WebPages.dll
+D:\ITI Projects\Souq\Souq\bin\System.Web.WebPages.Razor.dll
+D:\ITI Projects\Souq\Souq\bin\WebGrease.dll
+D:\ITI Projects\Souq\Souq\bin\PagedList.xml
+D:\ITI Projects\Souq\Souq\bin\PagedList.Mvc.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.Helpers.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.Mvc.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.Razor.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.WebPages.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.WebPages.Deployment.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.WebPages.Razor.xml
+D:\ITI Projects\Souq\Souq\bin\System.Web.Optimization.xml
+D:\ITI Projects\Souq\Souq\bin\Newtonsoft.Json.xml
+D:\ITI Projects\Souq\Souq\bin\Antlr3.Runtime.pdb
+D:\ITI Projects\Souq\Souq\bin\EntityFramework.xml
+D:\ITI Projects\Souq\Souq\bin\EntityFramework.SqlServer.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Google.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITI Projects\Souq\Souq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.csprojAssemblyReference.cache
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.csproj.CoreCompileInputs.cache
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.csproj.CopyComplete
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.dll
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.pdb
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.Migrations.amen.resources
+D:\ITI Projects\Souq\Souq\obj\Debug\Souq.csproj.GenerateResource.cache
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Souq.dll.config
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Souq.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Souq.pdb
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\csc.exe
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\csc.exe.config
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\csc.rsp
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\csi.exe
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\csi.exe.config
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\csi.rsp
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.AppContext.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Collections.Immutable.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Console.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.IO.Compression.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.IO.FileSystem.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.IO.Pipes.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.AccessControl.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.Claims.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.ValueTuple.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Xml.XPath.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\vbc.exe
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\vbc.exe.config
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\vbc.rsp
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\VBCSCompiler.exe
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\roslyn\VBCSCompiler.exe.config
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Antlr3.Runtime.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\EntityFramework.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\EntityFramework.SqlServer.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Google.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Newtonsoft.Json.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Owin.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\PagedList.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\PagedList.Mvc.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Helpers.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Mvc.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Optimization.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Razor.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.WebPages.Deployment.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.WebPages.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.WebPages.Razor.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\WebGrease.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\PagedList.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\PagedList.Mvc.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Helpers.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Mvc.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Razor.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.WebPages.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.WebPages.Deployment.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.WebPages.Razor.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\System.Web.Optimization.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Newtonsoft.Json.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Antlr3.Runtime.pdb
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\EntityFramework.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\EntityFramework.SqlServer.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Google.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.csprojAssemblyReference.cache
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.Migrations.amen.resources
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.csproj.GenerateResource.cache
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.csproj.CoreCompileInputs.cache
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.csproj.CopyComplete
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.dll
+D:\ITI Projects\MVC Project 16.6.2018\Souq\Souq\obj\Debug\Souq.pdb

@@ -1,0 +1,84 @@
+﻿@*@using PagedList;
+    @using PagedList.Mvc;
+    @model IPagedList<Souq.Models.MyClasses.Supplier>
+
+
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <form class="example" action="/AdminSupplier/Search" style="margin:auto;max-width:300px; padding:20px; margin-top:100px">
+        <input type="text" placeholder="Search.." name="SupplierName" autocomplete="off">
+        <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+
+
+    <table class="table table-bordered" style="text-align:center">
+        <tr style="background-color:grey">
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+            <th>Options</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SupplierPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    <a href="/AdminSupplier/Delete/@item.ID" class="btn btn-danger" style="margin:2px">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </table>*@
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<Souq.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<form class="example" action="/AdminSupplier/Search" style="margin:auto;max-width:300px; padding:20px; margin-top:100px">
+    <input type="text" placeholder="Search.." name="SupplierName" autocomplete="off">
+    <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+
+
+<table class="table table-bordered" style="text-align:center">
+    <tr style="background-color:grey">
+        <td>Name</td>
+        <td>Email</td>
+        <td>Phone Number</td>
+        <td>Options</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>@item.UserName</td>
+            <td>@item.Email</td>
+            <td>@item.PhoneNumber</td>
+            <td>
+                <a href="/AdminCustomers/Delete/@item.Id" class="btn btn-danger" style="margin:2px">Delete</a>
+            </td>
+        </tr>
+
+    }
+
+</table>
+@*@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))*@
